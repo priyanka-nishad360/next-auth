@@ -52,7 +52,6 @@ providers: [
 
 See the [Credentials provider documentation](/providers/credentials) for more information.
 
-:::note
 The Credentials provider can only be used if JSON Web Tokens are enabled for sessions. Users authenticated with the Credentials provider are not persisted in the database.
 :::
 
